@@ -1,0 +1,736 @@
+{
+ "revisione": "2026-10-13",
+ "paesi": {
+  "IT": {
+   "voci": [
+    {
+     "it": "Registrati nella Banca Dati Apistica (BDA) tramite il servizio veterinario dell'ASL prima di iniziare, e metti vicino a ogni apiario il cartello con il tuo codice.",
+     "en": "Register in the national beekeeping database (BDA) through your local veterinary service before you start, and put a sign with your code near each apiary."
+    },
+    {
+     "it": "Censimento annuale degli alveari in BDA dal 1° novembre al 31 dicembre, per tutti gli apiari, anche vuoti.",
+     "en": "Annual hive census in the BDA from 1 November to 31 December, for all apiaries, including empty ones."
+    },
+    {
+     "it": "Spostamenti, apertura e chiusura degli apiari vanno registrati in BDA entro 7 giorni.",
+     "en": "Moving, opening or closing an apiary must be recorded in the BDA within 7 days."
+    },
+    {
+     "it": "Contro la varroa si usano solo farmaci veterinari autorizzati; i trattamenti vanno registrati (di solito entro 48 ore) e la ricevuta d'acquisto va conservata.",
+     "en": "Varroa may only be treated with authorised veterinary medicines; treatments must be recorded (usually within 48 hours) and the purchase receipt kept."
+    },
+    {
+     "it": "Peste americana, peste europea, Aethina tumida e Tropilaelaps vanno denunciate subito al servizio veterinario dell'ASL, anche se solo sospette.",
+     "en": "American foulbrood, European foulbrood, small hive beetle and Tropilaelaps must be reported at once to the veterinary service, even if only suspected."
+    }
+   ],
+   "fonti": [
+    {
+     "nome": "IZS Venezie – Anagrafe apistica nazionale",
+     "url": "https://www.izsvenezie.it/wp-content/uploads/2015/05/anagrafe-apistica-nazionale.pdf"
+    },
+    {
+     "nome": "Ministero della Salute – Linee guida varroa 2025",
+     "url": "https://www.izsvenezie.it/documenti/temi/api/normativa/ministero-salute/2025-03-11-nota-2667-linee-guida-varroa.pdf"
+    }
+   ],
+   "nomadismo": [
+    {
+     "it": "Prima di portare le api, apri la postazione in BDN (anagrafe apistica), da solo o tramite associazione o servizio veterinario.",
+     "en": "Before moving the bees, open the site in the national beekeeping database (BDN), yourself or through your association or the veterinary service.",
+     "fr": "Avant de déplacer les abeilles, ouvrez l'emplacement dans la base de données apicole nationale (BDN), vous-même ou via votre association ou le service vétérinaire.",
+     "es": "Antes de mover las abejas, abre el asentamiento en la base de datos apícola nacional (BDN), tú mismo o a través de tu asociación o del servicio veterinario.",
+     "de": "Melde den Standort vor dem Wandern in der nationalen Bienendatenbank (BDN) an, selbst oder über deinen Verein oder das Veterinäramt.",
+     "ro": "Înainte de a muta albinele, deschide amplasamentul în baza de date apicolă națională (BDN), singur sau prin asociație ori serviciul veterinar.",
+     "el": "Πριν μετακινήσεις τις μέλισσες, άνοιξε τη θέση στην εθνική βάση δεδομένων μελισσοκομίας (BDN), μόνος σου ή μέσω συλλόγου ή κτηνιατρικής υπηρεσίας."
+    },
+    {
+     "it": "Registra lo spostamento in BDN entro 7 giorni; se cambi provincia serve il documento di accompagnamento (DDA) informatizzato.",
+     "en": "Record the move in the BDN within 7 days; if you change province you need the electronic accompanying document (DDA).",
+     "fr": "Enregistrez le déplacement dans la BDN sous 7 jours ; si vous changez de province, il faut le document d'accompagnement électronique (DDA).",
+     "es": "Registra el traslado en la BDN en 7 días; si cambias de provincia hace falta el documento de acompañamiento electrónico (DDA).",
+     "de": "Trage die Wanderung innerhalb von 7 Tagen in die BDN ein; wechselst du die Provinz, brauchst du das elektronische Begleitdokument (DDA).",
+     "ro": "Înregistrează mutarea în BDN în 7 zile; dacă schimbi provincia, e nevoie de documentul de însoțire electronic (DDA).",
+     "el": "Καταχώρισε τη μετακίνηση στη BDN μέσα σε 7 ημέρες· αν αλλάζεις επαρχία χρειάζεται το ηλεκτρονικό συνοδευτικό έγγραφο (DDA)."
+    },
+    {
+     "it": "Metti il cartello identificativo (A4, sfondo bianco, scritte nere, con il tuo codice) anche sulla postazione nomade.",
+     "en": "Put the identification sign (A4, white background, black text, with your code) at the migratory site too.",
+     "fr": "Placez aussi le panneau d'identification (A4, fond blanc, texte noir, avec votre code) sur l'emplacement de transhumance.",
+     "es": "Pon también el cartel identificativo (A4, fondo blanco, letras negras, con tu código) en el asentamiento trashumante.",
+     "de": "Stelle auch am Wanderstand das Kennzeichnungsschild auf (A4, weißer Grund, schwarze Schrift, mit deinem Code).",
+     "ro": "Pune și la amplasamentul pastoral panoul de identificare (A4, fond alb, scris negru, cu codul tău).",
+     "el": "Βάλε την πινακίδα αναγνώρισης (A4, λευκό φόντο, μαύρα γράμματα, με τον κωδικό σου) και στη θέση νομαδικής μελισσοκομίας."
+    },
+    {
+     "it": "Controlla le regole della tua Regione: alcune chiedono una comunicazione del nomadismo (per esempio entro febbraio, con postazione, numero di alveari, conduttore del terreno, foglio e mappale, periodo e fioritura).",
+     "en": "Check your region's rules: some require a migratory beekeeping notice (for example by February, with site, number of hives, land holder, cadastral parcel, period and bloom).",
+     "fr": "Vérifiez les règles de votre région : certaines demandent une déclaration de transhumance (par exemple avant février, avec emplacement, nombre de ruches, exploitant du terrain, parcelle cadastrale, période et floraison).",
+     "es": "Revisa las normas de tu región: algunas piden una comunicación de la trashumancia (por ejemplo antes de febrero, con asentamiento, número de colmenas, titular del terreno, parcela catastral, periodo y floración).",
+     "de": "Prüfe die Regeln deiner Region: Manche verlangen eine Wandermeldung (zum Beispiel bis Februar, mit Standort, Zahl der Völker, Bewirtschafter, Flurstück, Zeitraum und Tracht).",
+     "ro": "Verifică regulile regiunii tale: unele cer o comunicare a stupăritului pastoral (de exemplu până în februarie, cu amplasament, număr de stupi, deținătorul terenului, parcelă cadastrală, perioadă și cules).",
+     "el": "Έλεγξε τους κανόνες της περιφέρειάς σου: κάποιες ζητούν δήλωση νομαδικής μελισσοκομίας (π.χ. ως τον Φεβρουάριο, με θέση, αριθμό κυψελών, κάτοχο του αγρού, κτηματολογικό τεμάχιο, περίοδο και ανθοφορία)."
+    },
+    {
+     "it": "Al rientro registra di nuovo lo spostamento in BDN. Per i contributi al nomadismo servono di solito almeno 60 giorni per postazione e tutte le movimentazioni registrate.",
+     "en": "When you bring the hives back, record the move in the BDN again. Migratory beekeeping grants usually require at least 60 days per site and every move recorded.",
+     "fr": "Au retour, enregistrez à nouveau le déplacement dans la BDN. Les aides à la transhumance demandent en général au moins 60 jours par emplacement et tous les déplacements enregistrés.",
+     "es": "Al volver, registra de nuevo el traslado en la BDN. Las ayudas a la trashumancia suelen exigir al menos 60 días por asentamiento y todos los movimientos registrados.",
+     "de": "Trage auch die Rückkehr in die BDN ein. Für Wanderprämien braucht es meist mindestens 60 Tage pro Standort und alle Bewegungen eingetragen.",
+     "ro": "La întoarcere înregistrează din nou mutarea în BDN. Pentru ajutoarele de stupărit pastoral sunt de obicei necesare cel puțin 60 de zile pe amplasament și toate mutările înregistrate.",
+     "el": "Στην επιστροφή καταχώρισε ξανά τη μετακίνηση στη BDN. Οι ενισχύσεις νομαδικής μελισσοκομίας ζητούν συνήθως τουλάχιστον 60 ημέρες ανά θέση και όλες τις μετακινήσεις καταχωρισμένες."
+    },
+    {
+     "it": "Distanze: almeno 10 m dalle strade di pubblico transito e 5 m dai confini, salvo regole locali più severe.",
+     "en": "Distances: at least 10 m from public roads and 5 m from property boundaries, unless local rules are stricter.",
+     "fr": "Distances : au moins 10 m des voies publiques et 5 m des limites de propriété, sauf règles locales plus strictes.",
+     "es": "Distancias: al menos 10 m de las vías públicas y 5 m de los linderos, salvo normas locales más estrictas.",
+     "de": "Abstände: mindestens 10 m zu öffentlichen Wegen und 5 m zur Grundstücksgrenze, außer strengere örtliche Regeln.",
+     "ro": "Distanțe: cel puțin 10 m de drumurile publice și 5 m de hotare, dacă regulile locale nu sunt mai stricte.",
+     "el": "Αποστάσεις: τουλάχιστον 10 m από δημόσιους δρόμους και 5 m από τα όρια ιδιοκτησίας, εκτός αν οι τοπικοί κανόνες είναι αυστηρότεροι."
+    }
+   ]
+  },
+  "FR": {
+   "voci": [
+    {
+     "fr": "La déclaration des ruches est obligatoire dès la première colonie, chaque année du 1er septembre au 31 décembre, en ligne sur MesDémarches ; elle donne le numéro d'apiculteur (NAPI).",
+     "it": "La dichiarazione delle arnie è obbligatoria dalla prima colonia, ogni anno dal 1° settembre al 31 dicembre, online su MesDémarches; dà il numero di apicoltore (NAPI).",
+     "en": "Hives must be declared from the first colony, every year from 1 September to 31 December, online on MesDémarches; you receive a beekeeper number (NAPI)."
+    },
+    {
+     "fr": "Le NAPI doit être affiché près du rucher ou sur au moins une ruche sur dix.",
+     "it": "Il NAPI va esposto vicino all'apiario o su almeno un'arnia su dieci.",
+     "en": "The NAPI must be displayed near the apiary or on at least one hive in ten."
+    },
+    {
+     "fr": "Utilisez uniquement des médicaments autorisés (AMM) et notez les traitements dans le registre d'élevage, à conserver 5 ans.",
+     "it": "Usa solo farmaci autorizzati (AMM) e annota i trattamenti nel registro d'allevamento, da conservare 5 anni.",
+     "en": "Use only authorised medicines (AMM) and record treatments in the holding register, kept for 5 years."
+    },
+    {
+     "fr": "La loque américaine, Aethina tumida, Tropilaelaps et la nosémose à Nosema apis doivent être signalées aux services vétérinaires de l'État (DDecPP).",
+     "it": "Peste americana, Aethina tumida, Tropilaelaps e nosemosi da Nosema apis vanno segnalate ai servizi veterinari dello Stato (DDecPP).",
+     "en": "American foulbrood, small hive beetle, Tropilaelaps and Nosema apis must be reported to the state veterinary services (DDecPP)."
+    }
+   ],
+   "fonti": [
+    {
+     "nome": "DRAAF Bretagne – Déclaration obligatoire des ruches",
+     "url": "https://draaf.bretagne.agriculture.gouv.fr/la-declaration-obligatoire-des-ruches-du-1er-septembre-au-31-decembre-chaque-a540.html"
+    }
+   ],
+   "nomadismo": [
+    {
+     "it": "Le postazioni temporanee vanno dichiarate: inseriscile nella dichiarazione annuale dei ruchers (mesdemarches / TéléRuchers).",
+     "en": "Temporary sites must be declared: include them in your annual apiary declaration (mesdemarches / TéléRuchers).",
+     "fr": "Les emplacements temporaires doivent être déclarés : incluez-les dans votre déclaration annuelle de ruchers (mesdemarches / TéléRuchers).",
+     "es": "Los asentamientos temporales se declaran: inclúyelos en la declaración anual de colmenares (mesdemarches / TéléRuchers).",
+     "de": "Vorübergehende Standorte müssen gemeldet werden: Nimm sie in die jährliche Bienenstandmeldung auf (mesdemarches / TéléRuchers).",
+     "ro": "Amplasamentele temporare se declară: include-le în declarația anuală a stupinelor (mesdemarches / TéléRuchers).",
+     "el": "Οι προσωρινές θέσεις δηλώνονται: συμπεριέλαβέ τις στην ετήσια δήλωση μελισσοκομείων (mesdemarches / TéléRuchers)."
+    },
+    {
+     "it": "Se esci dal tuo dipartimento, dichiara il trasporto al servizio veterinario (DDPP) del dipartimento di arrivo, nei giorni prima o dopo lo spostamento.",
+     "en": "If you leave your département, declare the transport to the veterinary service (DDPP) of the destination département, in the days before or after the move.",
+     "fr": "Si vous quittez votre département, déclarez le transport à la DD(ETS)PP du département d'arrivée, dans les jours qui précèdent ou suivent le déplacement.",
+     "es": "Si sales de tu departamento, declara el transporte al servicio veterinario (DDPP) del departamento de destino, en los días antes o después del traslado.",
+     "de": "Verlässt du dein Département, melde den Transport beim Veterinärdienst (DDPP) des Ziel-Départements, in den Tagen vor oder nach der Wanderung.",
+     "ro": "Dacă ieși din departamentul tău, declară transportul la serviciul veterinar (DDPP) al departamentului de destinație, în zilele dinainte sau de după mutare.",
+     "el": "Αν φεύγεις από τον νομό σου, δήλωσε τη μεταφορά στην κτηνιατρική υπηρεσία (DDPP) του νομού προορισμού, τις ημέρες πριν ή μετά τη μετακίνηση."
+    },
+    {
+     "it": "Non entrare né uscire da zone con un arrêté d'infection; verso un altro paese UE o la Svizzera serve il certificato TRACES.",
+     "en": "Do not enter or leave areas under an infection order; to another EU country or Switzerland a TRACES certificate is needed.",
+     "fr": "N'entrez pas et ne sortez pas d'une zone sous arrêté d'infection ; vers un autre pays de l'UE ou la Suisse, il faut un certificat TRACES.",
+     "es": "No entres ni salgas de zonas con orden de infección; hacia otro país de la UE o Suiza hace falta el certificado TRACES.",
+     "de": "Fahre nicht in Gebiete mit Seuchenverfügung hinein oder hinaus; in ein anderes EU-Land oder die Schweiz braucht es ein TRACES-Zeugnis.",
+     "ro": "Nu intra și nu ieși din zone aflate sub ordin de infecție; spre altă țară UE sau Elveția e nevoie de certificat TRACES.",
+     "el": "Μην μπαίνεις ούτε να βγαίνεις από ζώνες με απόφαση μόλυνσης· προς άλλη χώρα της ΕΕ ή την Ελβετία χρειάζεται πιστοποιητικό TRACES."
+    }
+   ]
+  },
+  "BE": {
+   "voci": [
+    {
+     "fr": "Tout apiculteur, même amateur, doit s'enregistrer auprès de l'AFSCA.",
+     "it": "Ogni apicoltore, anche amatoriale, deve registrarsi presso l'AFSCA.",
+     "en": "Every beekeeper, including hobbyists, must register with the AFSCA/FAVV."
+    },
+    {
+     "fr": "La suspicion de loque américaine, loque européenne, acariose, Aethina tumida ou Tropilaelaps doit être signalée à l'AFSCA.",
+     "it": "Il sospetto di peste americana, peste europea, acariosi, Aethina tumida o Tropilaelaps va segnalato all'AFSCA.",
+     "en": "Suspected American or European foulbrood, acarine disease, small hive beetle or Tropilaelaps must be reported to the AFSCA/FAVV."
+    },
+    {
+     "fr": "Contre le varroa, utilisez uniquement des médicaments vétérinaires autorisés.",
+     "it": "Contro la varroa usa solo farmaci veterinari autorizzati.",
+     "en": "Use only authorised veterinary medicines against varroa."
+    },
+    {
+     "fr": "Les règles de distance sont régionales : vérifiez auprès de votre région.",
+     "it": "Le regole sulle distanze sono regionali: verifica con la tua regione.",
+     "en": "Distance rules are regional: check with your region."
+    }
+   ],
+   "nota": {
+    "it": "Informazioni da verificare: le pagine ufficiali dell'AFSCA non erano consultabili durante la revisione.",
+    "en": "To be checked: the official AFSCA pages could not be consulted during the review.",
+    "fr": "À vérifier : les pages officielles de l'AFSCA n'étaient pas consultables lors de la révision."
+   },
+   "fonti": [
+    {
+     "nome": "AFSCA – apiculteurs enregistrés",
+     "url": "https://favv-afsca.be/fr/publication/journee-mondiale-des-abeilles-lafsca-enregistre-10-000-apiculteurs-en-belgique"
+    }
+   ],
+   "nomadismo": [
+    {
+     "it": "Prima di spostare gli alveari chiedi al servizio veterinario o all'associazione apicoltori cosa serve: registrazione della nuova postazione, eventuale certificato sanitario e avviso alle autorità del luogo di arrivo.",
+     "en": "Before moving hives, ask the veterinary service or your beekeepers' association what is needed: registering the new site, any health certificate and notifying the authorities at the destination.",
+     "fr": "Avant de déplacer des ruches, demandez au service vétérinaire ou à votre association ce qu'il faut : déclaration du nouvel emplacement, certificat sanitaire éventuel et information des autorités du lieu d'arrivée.",
+     "es": "Antes de mover colmenas, pregunta al servicio veterinario o a tu asociación qué hace falta: registro del nuevo asentamiento, posible certificado sanitario y aviso a las autoridades del lugar de destino.",
+     "de": "Frage vor dem Wandern beim Veterinäramt oder deinem Imkerverein nach, was nötig ist: Meldung des neuen Standorts, eventuell ein Gesundheitszeugnis und Information der Behörden am Zielort.",
+     "ro": "Înainte de a muta stupii, întreabă serviciul veterinar sau asociația apicultorilor ce trebuie: înregistrarea noului amplasament, eventual un certificat sanitar și anunțarea autorităților de la destinație.",
+     "el": "Πριν μετακινήσεις κυψέλες, ρώτα την κτηνιατρική υπηρεσία ή τον σύλλογο μελισσοκόμων τι χρειάζεται: καταχώριση της νέας θέσης, τυχόν υγειονομικό πιστοποιητικό και ενημέρωση των αρχών στον προορισμό."
+    },
+    {
+     "it": "Non portare api in zone sottoposte a blocco sanitario e non spostarle da lì.",
+     "en": "Do not move bees into or out of areas under a health restriction.",
+     "fr": "Ne déplacez pas d'abeilles vers ou depuis une zone soumise à une restriction sanitaire.",
+     "es": "No muevas abejas hacia ni desde zonas sometidas a restricción sanitaria.",
+     "de": "Bringe keine Bienen in Sperrbezirke und nicht aus ihnen heraus.",
+     "ro": "Nu duce albine în zone aflate sub restricție sanitară și nu le scoate de acolo.",
+     "el": "Μη μεταφέρεις μέλισσες σε περιοχές με υγειονομικό περιορισμό ούτε από αυτές."
+    }
+   ]
+  },
+  "CH": {
+   "voci": [
+    {
+     "de": "Jeder Bienenstand muss innerhalb von 3 Arbeitstagen beim kantonalen Veterinärdienst bzw. Bieneninspektor gemeldet werden; die Nummer ist aussen gut sichtbar anzubringen.",
+     "fr": "Chaque rucher doit être annoncé dans les 3 jours ouvrables à l'office vétérinaire cantonal ou à l'inspecteur des ruchers ; le numéro doit être bien visible à l'extérieur.",
+     "it": "Ogni apiario va notificato entro 3 giorni lavorativi all'ufficio veterinario cantonale o all'ispettore degli apiari; il numero va esposto bene in vista all'esterno.",
+     "en": "Each apiary must be reported within 3 working days to the cantonal veterinary office or bee inspector; its number must be clearly displayed outside."
+    },
+    {
+     "de": "Führe eine Bestandeskontrolle (Völker, Standorte, Verschiebungen) und ein Behandlungsjournal; beides 3 Jahre aufbewahren, nur zugelassene Mittel verwenden.",
+     "fr": "Tenez un contrôle des effectifs (colonies, emplacements, déplacements) et un journal des traitements, à conserver 3 ans ; uniquement des produits autorisés.",
+     "it": "Tieni il controllo degli effettivi (colonie, ubicazioni, spostamenti) e il giornale dei trattamenti, da conservare 3 anni; solo prodotti autorizzati.",
+     "en": "Keep a stock register (colonies, locations, movements) and a treatment log for 3 years; use only authorised products."
+    },
+    {
+     "de": "Verschiebungen ausserhalb des Inspektionskreises vorher melden (App BeeTraffic) und die Freigabe des Inspektors abwarten.",
+     "fr": "Les déplacements hors du cercle d'inspection doivent être annoncés à l'avance (app BeeTraffic) et autorisés par l'inspecteur.",
+     "it": "Gli spostamenti fuori dal circondario d'ispezione vanno annunciati prima (app BeeTraffic) e autorizzati dall'ispettore.",
+     "en": "Moves outside the inspection district must be announced in advance (BeeTraffic app) and cleared by the inspector."
+    },
+    {
+     "de": "Verdacht auf Amerikanische oder Europäische Faulbrut oder eine andere Seuche sofort dem Bieneninspektor melden.",
+     "fr": "Toute suspicion de loque américaine, loque européenne ou autre épizootie doit être signalée immédiatement à l'inspecteur des ruchers.",
+     "it": "Il sospetto di peste americana, peste europea o altra epizoozia va segnalato subito all'ispettore degli apiari.",
+     "en": "Suspected American or European foulbrood or any other epizootic must be reported immediately to the bee inspector."
+    }
+   ],
+   "fonti": [
+    {
+     "nome": "BLV – Faulbrut der Bienen",
+     "url": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/faulbrut-der-bienen.html"
+    },
+    {
+     "nome": "Kanton Wallis – Imkerei",
+     "url": "https://www.vs.ch/web/scav/veterinaerwesen/imkerei"
+    }
+   ],
+   "nomadismo": [
+    {
+     "it": "Prima di spostare gli alveari chiedi al servizio veterinario o all'associazione apicoltori cosa serve: registrazione della nuova postazione, eventuale certificato sanitario e avviso alle autorità del luogo di arrivo.",
+     "en": "Before moving hives, ask the veterinary service or your beekeepers' association what is needed: registering the new site, any health certificate and notifying the authorities at the destination.",
+     "fr": "Avant de déplacer des ruches, demandez au service vétérinaire ou à votre association ce qu'il faut : déclaration du nouvel emplacement, certificat sanitaire éventuel et information des autorités du lieu d'arrivée.",
+     "es": "Antes de mover colmenas, pregunta al servicio veterinario o a tu asociación qué hace falta: registro del nuevo asentamiento, posible certificado sanitario y aviso a las autoridades del lugar de destino.",
+     "de": "Frage vor dem Wandern beim Veterinäramt oder deinem Imkerverein nach, was nötig ist: Meldung des neuen Standorts, eventuell ein Gesundheitszeugnis und Information der Behörden am Zielort.",
+     "ro": "Înainte de a muta stupii, întreabă serviciul veterinar sau asociația apicultorilor ce trebuie: înregistrarea noului amplasament, eventual un certificat sanitar și anunțarea autorităților de la destinație.",
+     "el": "Πριν μετακινήσεις κυψέλες, ρώτα την κτηνιατρική υπηρεσία ή τον σύλλογο μελισσοκόμων τι χρειάζεται: καταχώριση της νέας θέσης, τυχόν υγειονομικό πιστοποιητικό και ενημέρωση των αρχών στον προορισμό."
+    },
+    {
+     "it": "Non portare api in zone sottoposte a blocco sanitario e non spostarle da lì.",
+     "en": "Do not move bees into or out of areas under a health restriction.",
+     "fr": "Ne déplacez pas d'abeilles vers ou depuis une zone soumise à une restriction sanitaire.",
+     "es": "No muevas abejas hacia ni desde zonas sometidas a restricción sanitaria.",
+     "de": "Bringe keine Bienen in Sperrbezirke und nicht aus ihnen heraus.",
+     "ro": "Nu duce albine în zone aflate sub restricție sanitară și nu le scoate de acolo.",
+     "el": "Μη μεταφέρεις μέλισσες σε περιοχές με υγειονομικό περιορισμό ούτε από αυτές."
+    }
+   ]
+  },
+  "ES": {
+   "voci": [
+    {
+     "es": "Registra el colmenar en tu Comunidad Autónoma (registro REGA) y comunica los cambios en el plazo máximo de un mes.",
+     "it": "Registra l'apiario presso la tua Comunità autonoma (registro REGA) e comunica le variazioni entro un mese.",
+     "en": "Register the apiary with your Autonomous Community (REGA register) and report changes within one month."
+    },
+    {
+     "es": "Declara el censo de colmenas antes del 1 de marzo de cada año.",
+     "it": "Dichiara il censimento delle arnie prima del 1° marzo di ogni anno.",
+     "en": "Declare your hive census before 1 March every year."
+    },
+    {
+     "es": "Lleva el libro de registro de la explotación y marca cada colmena con el código del colmenar, visible e indeleble.",
+     "it": "Tieni il libro di registro dell'allevamento e marca ogni arnia con il codice dell'apiario, visibile e indelebile.",
+     "en": "Keep the holding register and mark each hive with the apiary code, visible and indelible."
+    },
+    {
+     "es": "Respeta las distancias mínimas nacionales (por ejemplo 400 m a núcleos urbanos), salvo excepciones de tu Comunidad.",
+     "it": "Rispetta le distanze minime nazionali (per esempio 400 m dai centri abitati), salvo deroghe della tua Comunità.",
+     "en": "Respect the national minimum distances (for example 400 m from towns), unless your Community allows exceptions."
+    },
+    {
+     "es": "La varroosis es de declaración obligatoria con un programa de control; comunica con urgencia cualquier alteración patológica.",
+     "it": "La varroasi è da notificare e c'è un programma di controllo obbligatorio; ogni alterazione patologica va comunicata d'urgenza.",
+     "en": "Varroosis is notifiable with a mandatory control programme; report any disease problem urgently."
+    }
+   ],
+   "fonti": [
+    {
+     "nome": "BOE – Real Decreto 209/2002",
+     "url": "https://www.boe.es/eli/es/rd/2002/02/22/209/con/20230517"
+    }
+   ],
+   "nomadismo": [
+    {
+     "it": "Annota ogni spostamento nel libro di registro dell'allevamento (REGA) e comunica i nuovi asentamientos come chiede la tua comunità autonoma.",
+     "en": "Record every move in the farm register (REGA) and notify new sites as your autonomous community requires.",
+     "fr": "Notez chaque déplacement dans le registre de l'exploitation (REGA) et déclarez les nouveaux emplacements comme le demande votre communauté autonome.",
+     "es": "Anota cada movimiento en el libro de registro de la explotación (REGA) y comunica los nuevos asentamientos como pida tu comunidad autónoma.",
+     "de": "Trage jede Wanderung ins Betriebsregister (REGA) ein und melde neue Standorte, wie es deine autonome Gemeinschaft verlangt.",
+     "ro": "Notează fiecare mutare în registrul exploatației (REGA) și comunică noile amplasamente cum cere comunitatea ta autonomă.",
+     "el": "Κατέγραψε κάθε μετακίνηση στο μητρώο της εκμετάλλευσης (REGA) και δήλωσε τις νέες θέσεις όπως ζητά η αυτόνομη κοινότητά σου."
+    },
+    {
+     "it": "Se cambi comunità autonoma (trashumancia) servono le comunicazioni e i documenti sanitari di entrambe le comunità.",
+     "en": "If you change autonomous community (trashumancia), you need the notices and health documents of both communities.",
+     "fr": "Si vous changez de communauté autonome (trashumancia), il faut les déclarations et documents sanitaires des deux communautés.",
+     "es": "Si cambias de comunidad autónoma (trashumancia) hacen falta las comunicaciones y documentos sanitarios de ambas comunidades.",
+     "de": "Wechselst du die autonome Gemeinschaft (trashumancia), brauchst du die Meldungen und Gesundheitsdokumente beider Gemeinschaften.",
+     "ro": "Dacă schimbi comunitatea autonomă (trashumancia), sunt necesare comunicările și documentele sanitare ale ambelor comunități.",
+     "el": "Αν αλλάζεις αυτόνομη κοινότητα (trashumancia), χρειάζονται οι δηλώσεις και τα υγειονομικά έγγραφα και των δύο κοινοτήτων."
+    },
+    {
+     "it": "Distanze (RD 209/2002): 500 m da altri apiari, 100 m dalle case, 200 m dalle strade nazionali, 25 m da cammini e confini.",
+     "en": "Distances (RD 209/2002): 500 m from other apiaries, 100 m from houses, 200 m from national roads, 25 m from paths and boundaries.",
+     "fr": "Distances (RD 209/2002) : 500 m des autres ruchers, 100 m des maisons, 200 m des routes nationales, 25 m des chemins et limites.",
+     "es": "Distancias (RD 209/2002): 500 m de otros colmenares, 100 m de las viviendas, 200 m de las carreteras nacionales, 25 m de caminos y linderos.",
+     "de": "Abstände (RD 209/2002): 500 m zu anderen Ständen, 100 m zu Häusern, 200 m zu Nationalstraßen, 25 m zu Wegen und Grenzen.",
+     "ro": "Distanțe (RD 209/2002): 500 m de alte stupine, 100 m de case, 200 m de drumurile naționale, 25 m de poteci și hotare.",
+     "el": "Αποστάσεις (RD 209/2002): 500 m από άλλα μελισσοκομεία, 100 m από σπίτια, 200 m από εθνικούς δρόμους, 25 m από μονοπάτια και όρια."
+    }
+   ]
+  },
+  "DE": {
+   "voci": [
+    {
+     "de": "Melde die Bienenhaltung vor Beginn beim Veterinäramt an, mit Zahl der Völker und Standorten.",
+     "it": "Notifica l'attività all'ufficio veterinario (Veterinäramt) prima di iniziare, con numero di colonie e ubicazioni.",
+     "en": "Notify the veterinary office (Veterinäramt) before you start, with the number of colonies and locations."
+    },
+    {
+     "de": "In vielen Bundesländern sind die Völker jährlich der Tierseuchenkasse zu melden.",
+     "it": "In molti Länder le colonie vanno dichiarate ogni anno alla cassa epizoozie (Tierseuchenkasse).",
+     "en": "In many federal states colonies must be declared every year to the animal disease fund (Tierseuchenkasse)."
+    },
+    {
+     "de": "Amerikanische Faulbrut, Kleiner Beutenkäfer und Tropilaelaps sind sofort dem Veterinäramt anzuzeigen – schon bei Verdacht.",
+     "it": "Peste americana, Aethina tumida e Tropilaelaps vanno denunciate subito al Veterinäramt, anche se solo sospette.",
+     "en": "American foulbrood, small hive beetle and Tropilaelaps must be reported to the Veterinäramt at once, even if only suspected."
+    },
+    {
+     "de": "Für das Verbringen von Völkern in einen anderen Kreis ist ein Gesundheitszeugnis nötig.",
+     "it": "Per spostare le colonie in un altro distretto serve un certificato sanitario.",
+     "en": "Moving colonies to another district requires a health certificate."
+    },
+    {
+     "de": "Nur in Deutschland zugelassene Tierarzneimittel verwenden; verschreibungs- oder apothekenpflichtige im Bestandsbuch eintragen.",
+     "it": "Usa solo medicinali autorizzati in Germania; quelli con ricetta o da farmacia vanno nel registro dei farmaci (Bestandsbuch).",
+     "en": "Use only medicines authorised in Germany; prescription or pharmacy-only ones go in the medicines register (Bestandsbuch)."
+    }
+   ],
+   "fonti": [
+    {
+     "nome": "BMLEH – Bienen: rechtliche Regelungen",
+     "url": "https://www.bmleh.de/DE/themen/tiere/nutztiere/bienen/bienen-rechtliche-regelungen.html"
+    }
+   ],
+   "nomadismo": [
+    {
+     "it": "Prima di spostare serve un certificato sanitario (Gesundheitszeugnis) del Bienensachverständiger, valido al massimo 9 mesi.",
+     "en": "Before moving you need a health certificate (Gesundheitszeugnis) from the bee health inspector, valid for at most 9 months.",
+     "fr": "Avant de déplacer, il faut un certificat sanitaire (Gesundheitszeugnis) de l'expert apicole, valable 9 mois au plus.",
+     "es": "Antes de mover hace falta un certificado sanitario (Gesundheitszeugnis) del inspector apícola, válido como máximo 9 meses.",
+     "de": "Vor dem Wandern brauchst du ein Gesundheitszeugnis des Bienensachverständigen, höchstens 9 Monate gültig.",
+     "ro": "Înainte de mutare e nevoie de un certificat sanitar (Gesundheitszeugnis) de la inspectorul apicol, valabil cel mult 9 luni.",
+     "el": "Πριν τη μετακίνηση χρειάζεται υγειονομικό πιστοποιητικό (Gesundheitszeugnis) από τον επιθεωρητή μελισσών, που ισχύει έως 9 μήνες."
+    },
+    {
+     "it": "Avvisa l'ufficio veterinario del luogo di arrivo (e anche quando riparti); sul posto metti nome, indirizzo e numero di colonie.",
+     "en": "Notify the veterinary office at the destination (and again when you leave); at the site, show your name, address and number of colonies.",
+     "fr": "Informez le service vétérinaire du lieu d'arrivée (et aussi au départ) ; sur place, indiquez nom, adresse et nombre de colonies.",
+     "es": "Avisa a la oficina veterinaria del lugar de destino (y también al marcharte); en el lugar pon nombre, dirección y número de colonias.",
+     "de": "Melde dich beim Veterinäramt am Zielort an (und wieder ab); am Stand müssen Name, Anschrift und Zahl der Völker angebracht sein.",
+     "ro": "Anunță oficiul veterinar de la destinație (și la plecare); la amplasament pune numele, adresa și numărul de familii.",
+     "el": "Ενημέρωσε την κτηνιατρική υπηρεσία του προορισμού (και όταν φεύγεις)· στη θέση βάλε όνομα, διεύθυνση και αριθμό αποικιών."
+    },
+    {
+     "it": "Non portare api in zone sottoposte a blocco sanitario e non spostarle da lì.",
+     "en": "Do not move bees into or out of areas under a health restriction.",
+     "fr": "Ne déplacez pas d'abeilles vers ou depuis une zone soumise à une restriction sanitaire.",
+     "es": "No muevas abejas hacia ni desde zonas sometidas a restricción sanitaria.",
+     "de": "Bringe keine Bienen in Sperrbezirke und nicht aus ihnen heraus.",
+     "ro": "Nu duce albine în zone aflate sub restricție sanitară și nu le scoate de acolo.",
+     "el": "Μη μεταφέρεις μέλισσες σε περιοχές με υγειονομικό περιορισμό ούτε από αυτές."
+    }
+   ]
+  },
+  "AT": {
+   "voci": [
+    {
+     "de": "Melde die Bienenhaltung binnen 7 Tagen bei der Bezirksverwaltungsbehörde und lass dich im VIS registrieren.",
+     "it": "Notifica l'attività all'autorità distrettuale entro 7 giorni e registrati nel sistema VIS.",
+     "en": "Report your beekeeping to the district authority within 7 days and register in the VIS system."
+    },
+    {
+     "de": "Völkerzählung zweimal jährlich: Stand 31. Oktober bis 31. Dezember, Stand 30. April bis 30. Juni melden.",
+     "it": "Conteggio delle colonie due volte l'anno: situazione al 31 ottobre entro il 31 dicembre, situazione al 30 aprile entro il 30 giugno.",
+     "en": "Colony count twice a year: status at 31 October by 31 December, status at 30 April by 30 June."
+    },
+    {
+     "de": "Standorte im VIS aktuell halten; Eröffnung und Auflösung eines Standorts binnen 7 Tagen melden.",
+     "it": "Tieni aggiornate le ubicazioni nel VIS; apertura e chiusura di un apiario entro 7 giorni.",
+     "en": "Keep locations up to date in the VIS; report opening or closing an apiary within 7 days."
+    },
+    {
+     "de": "Verdacht auf Amerikanische Faulbrut, Kleinen Beutenkäfer, Tropilaelaps oder schwere Varroose dem Amtstierarzt melden.",
+     "it": "Il sospetto di peste americana, Aethina, Tropilaelaps o varroasi grave va segnalato al veterinario ufficiale (Amtstierarzt).",
+     "en": "Suspected American foulbrood, small hive beetle, Tropilaelaps or severe varroosis must be reported to the official vet."
+    },
+    {
+     "de": "Sichtungen der Asiatischen Hornisse auf bienengesundheit.at melden.",
+     "it": "Gli avvistamenti di Vespa velutina si segnalano su bienengesundheit.at.",
+     "en": "Report Asian hornet sightings on bienengesundheit.at."
+    }
+   ],
+   "fonti": [
+    {
+     "nome": "VIS – Bienen, häufige Fragen",
+     "url": "https://vis.statistik.at/tierhaltung/bienen/haeufige-fragen"
+    },
+    {
+     "nome": "Verbrauchergesundheit – Biene",
+     "url": "https://www.verbrauchergesundheit.gv.at/tiere/biene/bienen.html"
+    }
+   ],
+   "nomadismo": [
+    {
+     "it": "Prima di spostare gli alveari chiedi al servizio veterinario o all'associazione apicoltori cosa serve: registrazione della nuova postazione, eventuale certificato sanitario e avviso alle autorità del luogo di arrivo.",
+     "en": "Before moving hives, ask the veterinary service or your beekeepers' association what is needed: registering the new site, any health certificate and notifying the authorities at the destination.",
+     "fr": "Avant de déplacer des ruches, demandez au service vétérinaire ou à votre association ce qu'il faut : déclaration du nouvel emplacement, certificat sanitaire éventuel et information des autorités du lieu d'arrivée.",
+     "es": "Antes de mover colmenas, pregunta al servicio veterinario o a tu asociación qué hace falta: registro del nuevo asentamiento, posible certificado sanitario y aviso a las autoridades del lugar de destino.",
+     "de": "Frage vor dem Wandern beim Veterinäramt oder deinem Imkerverein nach, was nötig ist: Meldung des neuen Standorts, eventuell ein Gesundheitszeugnis und Information der Behörden am Zielort.",
+     "ro": "Înainte de a muta stupii, întreabă serviciul veterinar sau asociația apicultorilor ce trebuie: înregistrarea noului amplasament, eventual un certificat sanitar și anunțarea autorităților de la destinație.",
+     "el": "Πριν μετακινήσεις κυψέλες, ρώτα την κτηνιατρική υπηρεσία ή τον σύλλογο μελισσοκόμων τι χρειάζεται: καταχώριση της νέας θέσης, τυχόν υγειονομικό πιστοποιητικό και ενημέρωση των αρχών στον προορισμό."
+    },
+    {
+     "it": "Non portare api in zone sottoposte a blocco sanitario e non spostarle da lì.",
+     "en": "Do not move bees into or out of areas under a health restriction.",
+     "fr": "Ne déplacez pas d'abeilles vers ou depuis une zone soumise à une restriction sanitaire.",
+     "es": "No muevas abejas hacia ni desde zonas sometidas a restricción sanitaria.",
+     "de": "Bringe keine Bienen in Sperrbezirke und nicht aus ihnen heraus.",
+     "ro": "Nu duce albine în zone aflate sub restricție sanitară și nu le scoate de acolo.",
+     "el": "Μη μεταφέρεις μέλισσες σε περιοχές με υγειονομικό περιορισμό ούτε από αυτές."
+    }
+   ]
+  },
+  "GB": {
+   "voci": [
+    {
+     "en": "Registering on BeeBase is voluntary but strongly recommended: you get disease alerts for your area.",
+     "it": "La registrazione su BeeBase è volontaria ma molto consigliata: ricevi gli avvisi di malattie nella tua zona."
+    },
+    {
+     "en": "American foulbrood, European foulbrood, small hive beetle and Tropilaelaps must be reported immediately, even if only suspected, to the National Bee Unit or your bee inspector.",
+     "it": "Peste americana, peste europea, Aethina tumida e Tropilaelaps vanno notificate subito, anche se solo sospette, al National Bee Unit o all'ispettore."
+    },
+    {
+     "en": "Varroa must also be reported, through BeeBase or the National Bee Unit.",
+     "it": "Va segnalata anche la varroa, tramite BeeBase o il National Bee Unit."
+    },
+    {
+     "en": "Use only medicines authorised in the UK for bees and keep treatment records for at least 5 years.",
+     "it": "Usa solo farmaci autorizzati nel Regno Unito per le api e conserva i registri dei trattamenti per almeno 5 anni."
+    },
+    {
+     "en": "Report Asian hornet sightings with the Asian Hornet Watch app or the online form.",
+     "it": "Gli avvistamenti di Vespa velutina si segnalano con l'app Asian Hornet Watch o con il modulo online."
+    }
+   ],
+   "nota": {
+    "en": "These rules are for England and Wales; Scotland and Northern Ireland have similar rules of their own.",
+    "it": "Queste regole valgono per Inghilterra e Galles; Scozia e Irlanda del Nord hanno regole proprie simili."
+   },
+   "fonti": [
+    {
+     "nome": "National Bee Unit – Legal responsibility of beekeepers",
+     "url": "https://www.nationalbeeunit.com/bees-and-the-law/legal-responsibility-of-beekeepers"
+    }
+   ],
+   "nomadismo": [
+    {
+     "it": "Prima di spostare gli alveari chiedi al servizio veterinario o all'associazione apicoltori cosa serve: registrazione della nuova postazione, eventuale certificato sanitario e avviso alle autorità del luogo di arrivo.",
+     "en": "Before moving hives, ask the veterinary service or your beekeepers' association what is needed: registering the new site, any health certificate and notifying the authorities at the destination.",
+     "fr": "Avant de déplacer des ruches, demandez au service vétérinaire ou à votre association ce qu'il faut : déclaration du nouvel emplacement, certificat sanitaire éventuel et information des autorités du lieu d'arrivée.",
+     "es": "Antes de mover colmenas, pregunta al servicio veterinario o a tu asociación qué hace falta: registro del nuevo asentamiento, posible certificado sanitario y aviso a las autoridades del lugar de destino.",
+     "de": "Frage vor dem Wandern beim Veterinäramt oder deinem Imkerverein nach, was nötig ist: Meldung des neuen Standorts, eventuell ein Gesundheitszeugnis und Information der Behörden am Zielort.",
+     "ro": "Înainte de a muta stupii, întreabă serviciul veterinar sau asociația apicultorilor ce trebuie: înregistrarea noului amplasament, eventual un certificat sanitar și anunțarea autorităților de la destinație.",
+     "el": "Πριν μετακινήσεις κυψέλες, ρώτα την κτηνιατρική υπηρεσία ή τον σύλλογο μελισσοκόμων τι χρειάζεται: καταχώριση της νέας θέσης, τυχόν υγειονομικό πιστοποιητικό και ενημέρωση των αρχών στον προορισμό."
+    },
+    {
+     "it": "Non portare api in zone sottoposte a blocco sanitario e non spostarle da lì.",
+     "en": "Do not move bees into or out of areas under a health restriction.",
+     "fr": "Ne déplacez pas d'abeilles vers ou depuis une zone soumise à une restriction sanitaire.",
+     "es": "No muevas abejas hacia ni desde zonas sometidas a restricción sanitaria.",
+     "de": "Bringe keine Bienen in Sperrbezirke und nicht aus ihnen heraus.",
+     "ro": "Nu duce albine în zone aflate sub restricție sanitară și nu le scoate de acolo.",
+     "el": "Μη μεταφέρεις μέλισσες σε περιοχές με υγειονομικό περιορισμό ούτε από αυτές."
+    }
+   ]
+  },
+  "IE": {
+   "voci": [
+    {
+     "en": "To sell honey you must register as a primary food producer with the Department of Agriculture (DAFM).",
+     "it": "Per vendere miele devi registrarti come produttore primario presso il Ministero dell'agricoltura (DAFM)."
+    },
+    {
+     "en": "American foulbrood, European foulbrood, small hive beetle and Tropilaelaps must be notified to DAFM, even if only suspected.",
+     "it": "Peste americana, peste europea, Aethina tumida e Tropilaelaps vanno notificate al DAFM, anche se solo sospette."
+    },
+    {
+     "en": "Use only medicines authorised by the HPRA and record them in a medicines register.",
+     "it": "Usa solo farmaci autorizzati dall'HPRA e annotali in un registro dei farmaci."
+    },
+    {
+     "en": "Report Asian hornet sightings on biodiversityireland.ie.",
+     "it": "Gli avvistamenti di Vespa velutina si segnalano su biodiversityireland.ie."
+    }
+   ],
+   "fonti": [
+    {
+     "nome": "gov.ie – Beekeeping and honey",
+     "url": "https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/publications/beekeeping-honey/"
+    },
+    {
+     "nome": "gov.ie – List of notifiable diseases",
+     "url": "https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/publications/list-of-notifiable-diseases/"
+    }
+   ],
+   "nomadismo": [
+    {
+     "it": "Prima di spostare gli alveari chiedi al servizio veterinario o all'associazione apicoltori cosa serve: registrazione della nuova postazione, eventuale certificato sanitario e avviso alle autorità del luogo di arrivo.",
+     "en": "Before moving hives, ask the veterinary service or your beekeepers' association what is needed: registering the new site, any health certificate and notifying the authorities at the destination.",
+     "fr": "Avant de déplacer des ruches, demandez au service vétérinaire ou à votre association ce qu'il faut : déclaration du nouvel emplacement, certificat sanitaire éventuel et information des autorités du lieu d'arrivée.",
+     "es": "Antes de mover colmenas, pregunta al servicio veterinario o a tu asociación qué hace falta: registro del nuevo asentamiento, posible certificado sanitario y aviso a las autoridades del lugar de destino.",
+     "de": "Frage vor dem Wandern beim Veterinäramt oder deinem Imkerverein nach, was nötig ist: Meldung des neuen Standorts, eventuell ein Gesundheitszeugnis und Information der Behörden am Zielort.",
+     "ro": "Înainte de a muta stupii, întreabă serviciul veterinar sau asociația apicultorilor ce trebuie: înregistrarea noului amplasament, eventual un certificat sanitar și anunțarea autorităților de la destinație.",
+     "el": "Πριν μετακινήσεις κυψέλες, ρώτα την κτηνιατρική υπηρεσία ή τον σύλλογο μελισσοκόμων τι χρειάζεται: καταχώριση της νέας θέσης, τυχόν υγειονομικό πιστοποιητικό και ενημέρωση των αρχών στον προορισμό."
+    },
+    {
+     "it": "Non portare api in zone sottoposte a blocco sanitario e non spostarle da lì.",
+     "en": "Do not move bees into or out of areas under a health restriction.",
+     "fr": "Ne déplacez pas d'abeilles vers ou depuis une zone soumise à une restriction sanitaire.",
+     "es": "No muevas abejas hacia ni desde zonas sometidas a restricción sanitaria.",
+     "de": "Bringe keine Bienen in Sperrbezirke und nicht aus ihnen heraus.",
+     "ro": "Nu duce albine în zone aflate sub restricție sanitară și nu le scoate de acolo.",
+     "el": "Μη μεταφέρεις μέλισσες σε περιοχές με υγειονομικό περιορισμό ούτε από αυτές."
+    }
+   ]
+  },
+  "US": {
+   "voci": [
+    {
+     "en": "Rules are set by each state: most have an apiary inspection service at the state Department of Agriculture, and many require apiaries to be registered.",
+     "it": "Le regole sono di ogni Stato: quasi tutti hanno un servizio di ispezione apiaria presso il Dipartimento dell'agricoltura e molti chiedono la registrazione degli apiari."
+    },
+    {
+     "en": "Requirements differ: some states require every colony to be registered, others only above a set number of colonies.",
+     "it": "Gli obblighi cambiano: alcuni Stati vogliono registrate tutte le colonie, altri solo sopra un certo numero."
+    },
+    {
+     "en": "Moving bees across state lines often requires an inspection or a health certificate.",
+     "it": "Per spostare api da uno Stato all'altro spesso servono un'ispezione o un certificato sanitario."
+    },
+    {
+     "en": "American foulbrood is usually reportable to the state apiary inspector; importing bees is restricted by federal law.",
+     "it": "La peste americana di solito va segnalata all'ispettore apiario dello Stato; l'importazione di api è limitata dalla legge federale."
+    }
+   ],
+   "nota": {
+    "en": "Check your own state's rules with its apiary inspector.",
+    "it": "Controlla le regole del tuo Stato con il suo ispettore apiario."
+   },
+   "fonti": [
+    {
+     "nome": "Apiary Inspectors of America – Inspection services",
+     "url": "https://apiaryinspectors.org/inspection-services/"
+    }
+   ],
+   "nomadismo": [
+    {
+     "it": "Le regole cambiano da stato a stato: per entrare in un altro stato di solito servono un permesso e un'ispezione sanitaria degli alveari.",
+     "en": "Rules change from state to state: entering another state usually requires a permit and a health inspection of the hives.",
+     "fr": "Les règles changent d'un État à l'autre : pour entrer dans un autre État, il faut en général un permis et une inspection sanitaire des ruches.",
+     "es": "Las normas cambian de un estado a otro: para entrar en otro estado suele hacer falta un permiso y una inspección sanitaria de las colmenas.",
+     "de": "Die Regeln sind von Staat zu Staat verschieden: Für die Einreise in einen anderen Staat braucht es meist eine Genehmigung und eine Gesundheitsprüfung der Völker.",
+     "ro": "Regulile diferă de la un stat la altul: pentru a intra în alt stat sunt de obicei necesare un permis și o inspecție sanitară a stupilor.",
+     "el": "Οι κανόνες αλλάζουν από πολιτεία σε πολιτεία: για είσοδο σε άλλη πολιτεία συνήθως χρειάζονται άδεια και υγειονομικός έλεγχος των κυψελών."
+    },
+    {
+     "it": "Prima di spostare gli alveari chiedi al servizio veterinario o all'associazione apicoltori cosa serve: registrazione della nuova postazione, eventuale certificato sanitario e avviso alle autorità del luogo di arrivo.",
+     "en": "Before moving hives, ask the veterinary service or your beekeepers' association what is needed: registering the new site, any health certificate and notifying the authorities at the destination.",
+     "fr": "Avant de déplacer des ruches, demandez au service vétérinaire ou à votre association ce qu'il faut : déclaration du nouvel emplacement, certificat sanitaire éventuel et information des autorités du lieu d'arrivée.",
+     "es": "Antes de mover colmenas, pregunta al servicio veterinario o a tu asociación qué hace falta: registro del nuevo asentamiento, posible certificado sanitario y aviso a las autoridades del lugar de destino.",
+     "de": "Frage vor dem Wandern beim Veterinäramt oder deinem Imkerverein nach, was nötig ist: Meldung des neuen Standorts, eventuell ein Gesundheitszeugnis und Information der Behörden am Zielort.",
+     "ro": "Înainte de a muta stupii, întreabă serviciul veterinar sau asociația apicultorilor ce trebuie: înregistrarea noului amplasament, eventual un certificat sanitar și anunțarea autorităților de la destinație.",
+     "el": "Πριν μετακινήσεις κυψέλες, ρώτα την κτηνιατρική υπηρεσία ή τον σύλλογο μελισσοκόμων τι χρειάζεται: καταχώριση της νέας θέσης, τυχόν υγειονομικό πιστοποιητικό και ενημέρωση των αρχών στον προορισμό."
+    }
+   ]
+  },
+  "RO": {
+   "voci": [
+    {
+     "ro": "Înscrie familiile de albine în registrul agricol al primăriei și înregistrează-te la direcția sanitar-veterinară județeană (DSVSA).",
+     "it": "Iscrivi le colonie nel registro agricolo del comune e registrati presso il servizio veterinario provinciale (DSVSA).",
+     "en": "Enter your colonies in the town hall's agricultural register and register with the county veterinary directorate (DSVSA)."
+    },
+    {
+     "ro": "Ține carnetul de stupină cu mișcările, starea de sănătate și tratamentele, și identifică stupii.",
+     "it": "Tieni il libretto d'apiario (carnet de stupină) con movimenti, salute e trattamenti, e identifica le arnie.",
+     "en": "Keep the apiary booklet (carnet de stupină) with movements, health and treatments, and identify your hives."
+    },
+    {
+     "ro": "La stupărit pastoral, afișează în 24 de ore un panou cu numele, telefonul, numărul de stupi și numărul DSVSA și anunță primăria.",
+     "it": "Nel nomadismo esponi entro 24 ore un cartello con nome, telefono, numero di arnie e numero DSVSA, e avvisa il comune.",
+     "en": "When moving hives to new pasture, put up a sign within 24 hours with your name, phone, number of hives and DSVSA number, and inform the town hall."
+    },
+    {
+     "ro": "Loca americană și europeană, acarioza, varroza, Aethina și Tropilaelaps se notifică la DSVSA.",
+     "it": "Peste americana ed europea, acariosi, varroasi, Aethina e Tropilaelaps vanno notificate alla DSVSA.",
+     "en": "American and European foulbrood, acarine disease, varroosis, small hive beetle and Tropilaelaps must be notified to the DSVSA."
+    }
+   ],
+   "nota": {
+    "it": "Informazioni da verificare: non è stato possibile consultare la versione aggiornata della legge sul sito ufficiale.",
+    "en": "To be checked: the current consolidated law could not be consulted on the official website.",
+    "ro": "De verificat: versiunea actualizată a legii nu a putut fi consultată pe site-ul oficial."
+   },
+   "fonti": [
+    {
+     "nome": "Legea apiculturii 383/2013",
+     "url": "https://legeaz.net/monitorul-oficial-14-2014/legea-383-2013-apiculturii"
+    }
+   ],
+   "nomadismo": [
+    {
+     "it": "Serve l'ordine di spostamento in pastorale, con l'attestato dell'ufficio zootecnico della contea e la comunicazione vistata dal Comune di arrivo.",
+     "en": "You need the pastoral move order, with the certificate from the county livestock office and the notice stamped by the destination town hall.",
+     "fr": "Il faut l'ordre de déplacement en pastoral, avec l'attestation de l'office zootechnique du département et la déclaration visée par la mairie d'arrivée.",
+     "es": "Hace falta la orden de traslado en pastoreo, con el certificado de la oficina zootécnica del distrito y la comunicación sellada por el ayuntamiento de destino.",
+     "de": "Du brauchst die Wanderanordnung (pastoral) mit der Bescheinigung des Kreis-Tierzuchtamts und der vom Zielort-Rathaus gestempelten Meldung.",
+     "ro": "E nevoie de ordinul de deplasare în pastoral, cu atestatul oficiului zootehnic județean și comunicarea vizată de primăria de destinație.",
+     "el": "Χρειάζεται η εντολή μετακίνησης σε βοσκή, με τη βεβαίωση του κτηνοτροφικού γραφείου του νομού και τη δήλωση θεωρημένη από τον δήμο προορισμού."
+    },
+    {
+     "it": "Verifica con la direzione sanitaria veterinaria se serve un certificato sanitario per gli alveari.",
+     "en": "Check with the veterinary health directorate whether a health certificate for the hives is needed.",
+     "fr": "Vérifiez auprès de la direction sanitaire vétérinaire si un certificat sanitaire pour les ruches est nécessaire.",
+     "es": "Consulta con la dirección sanitaria veterinaria si hace falta un certificado sanitario para las colmenas.",
+     "de": "Kläre mit der Veterinärdirektion, ob ein Gesundheitszeugnis für die Völker nötig ist.",
+     "ro": "Verifică la direcția sanitar-veterinară dacă e nevoie de certificat sanitar pentru stupi.",
+     "el": "Έλεγξε με την κτηνιατρική διεύθυνση αν χρειάζεται υγειονομικό πιστοποιητικό για τις κυψέλες."
+    },
+    {
+     "it": "Non portare api in zone sottoposte a blocco sanitario e non spostarle da lì.",
+     "en": "Do not move bees into or out of areas under a health restriction.",
+     "fr": "Ne déplacez pas d'abeilles vers ou depuis une zone soumise à une restriction sanitaire.",
+     "es": "No muevas abejas hacia ni desde zonas sometidas a restricción sanitaria.",
+     "de": "Bringe keine Bienen in Sperrbezirke und nicht aus ihnen heraus.",
+     "ro": "Nu duce albine în zone aflate sub restricție sanitară și nu le scoate de acolo.",
+     "el": "Μη μεταφέρεις μέλισσες σε περιοχές με υγειονομικό περιορισμό ούτε από αυτές."
+    }
+   ]
+  },
+  "GR": {
+   "voci": [
+    {
+     "el": "Με τουλάχιστον 5 κυψέλες πρέπει να εγγραφείς στο Ηλεκτρονικό Μελισσοκομικό Μητρώο.",
+     "it": "Con almeno 5 arnie devi iscriverti al Registro apistico elettronico nazionale.",
+     "en": "With at least 5 hives you must enrol in the national electronic beekeeping register."
+    },
+    {
+     "el": "Η ετήσια δήλωση κατεχόμενων κυψελών γίνεται στο gov.gr από 1 Σεπτεμβρίου έως 20 Οκτωβρίου.",
+     "it": "La dichiarazione annuale delle arnie si fa su gov.gr dal 1° settembre al 20 ottobre.",
+     "en": "The annual hive declaration is made on gov.gr from 1 September to 20 October."
+    },
+    {
+     "el": "Σημαντικές μεταβολές στον αριθμό των κυψελών δηλώνονται μέσα σε 15 ημέρες.",
+     "it": "Le variazioni importanti del numero di arnie si dichiarano entro 15 giorni.",
+     "en": "Significant changes in the number of hives must be declared within 15 days."
+    },
+    {
+     "el": "Κάθε κυψέλη σημαίνεται με τον κωδικό του μελισσοκόμου.",
+     "it": "Ogni arnia va marcata con il codice dell'apicoltore.",
+     "en": "Each hive must be marked with the beekeeper's code."
+    },
+    {
+     "el": "Οι ασθένειες υποχρεωτικής δήλωσης (τουλάχιστον αμερικανική σηψιγονία, Aethina, Tropilaelaps) δηλώνονται στην περιφερειακή κτηνιατρική υπηρεσία.",
+     "it": "Le malattie da denunciare (almeno peste americana, Aethina, Tropilaelaps) si segnalano alla direzione veterinaria regionale.",
+     "en": "Notifiable diseases (at least American foulbrood, small hive beetle, Tropilaelaps) must be reported to the regional veterinary service."
+    }
+   ],
+   "fonti": [
+    {
+     "nome": "ΥΠΑΑΤ – Δήλωση κατεχόμενων κυψελών",
+     "url": "https://www.minagric.gr/component/content/article/19271-dilosi-katexomenon-kypselon"
+    }
+   ],
+   "nomadismo": [
+    {
+     "it": "Aggiorna il registro elettronico apistico: le variazioni del numero di alveari vanno comunicate alla DAOK entro 15 giorni.",
+     "en": "Update the electronic beekeeping register: changes in the number of hives must be reported to the DAOK within 15 days.",
+     "fr": "Mettez à jour le registre apicole électronique : les variations du nombre de ruches se déclarent à la DAOK sous 15 jours.",
+     "es": "Actualiza el registro apícola electrónico: los cambios en el número de colmenas se comunican a la DAOK en 15 días.",
+     "de": "Aktualisiere das elektronische Imkerregister: Änderungen der Völkerzahl müssen der DAOK binnen 15 Tagen gemeldet werden.",
+     "ro": "Actualizează registrul apicol electronic: schimbările numărului de stupi se comunică la DAOK în 15 zile.",
+     "el": "Ενημέρωσε το ηλεκτρονικό μελισσοκομικό μητρώο: οι μεταβολές στον αριθμό κυψελών δηλώνονται στη ΔΑΟΚ μέσα σε 15 ημέρες."
+    },
+    {
+     "it": "Il numero di registrazione deve essere impresso su ogni arnia, nido e melari; chiedi alla DAOK cosa serve per spostarli.",
+     "en": "The registration number must be marked on every hive, brood box and super; ask the DAOK what is needed to move them.",
+     "fr": "Le numéro d'enregistrement doit être marqué sur chaque ruche, corps et hausse ; demandez à la DAOK ce qu'il faut pour les déplacer.",
+     "es": "El número de registro debe estar marcado en cada colmena, nido y alza; pregunta a la DAOK qué hace falta para moverlas.",
+     "de": "Die Registriernummer muss auf jeder Beute, Brutraum und Honigraum stehen; frage die DAOK, was zum Wandern nötig ist.",
+     "ro": "Numărul de înregistrare trebuie marcat pe fiecare stup, corp și magazie; întreabă DAOK ce trebuie pentru mutare.",
+     "el": "Ο αριθμός μητρώου πρέπει να είναι αποτυπωμένος σε κάθε κυψέλη, φωλιά και μελοθάλαμο· ρώτα τη ΔΑΟΚ τι χρειάζεται για τη μετακίνηση."
+    },
+    {
+     "it": "Non portare api in zone sottoposte a blocco sanitario e non spostarle da lì.",
+     "en": "Do not move bees into or out of areas under a health restriction.",
+     "fr": "Ne déplacez pas d'abeilles vers ou depuis une zone soumise à une restriction sanitaire.",
+     "es": "No muevas abejas hacia ni desde zonas sometidas a restricción sanitaria.",
+     "de": "Bringe keine Bienen in Sperrbezirke und nicht aus ihnen heraus.",
+     "ro": "Nu duce albine în zone aflate sub restricție sanitară și nu le scoate de acolo.",
+     "el": "Μη μεταφέρεις μέλισσες σε περιοχές με υγειονομικό περιορισμό ούτε από αυτές."
+    }
+   ]
+  }
+ }
+}
