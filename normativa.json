@@ -1,5 +1,5 @@
 {
- "revisione": "2026-10-13",
+ "revisione": "2026-10-25",
  "paesi": {
   "IT": {
    "voci": [
@@ -571,6 +571,18 @@
     {
      "en": "American foulbrood is usually reportable to the state apiary inspector; importing bees is restricted by federal law.",
      "it": "La peste americana di solito va segnalata all'ispettore apiario dello Stato; l'importazione di api è limitata dalla legge federale."
+    },
+    {
+     "it": "Il miele venduto si chiama «honey» (con la fioritura solo se è quella principale); le miscele vanno chiamate per quello che sono. In etichetta: peso netto in unità americane e metriche, nome e indirizzo di chi lo produce o confeziona.",
+     "en": "Honey sold must be named \"honey\" (with the floral source only if it is the main one); blends must be named for what they are. The label needs the net quantity in both US and metric units, and the name and address of the producer or packer."
+    },
+    {
+     "it": "Le regole per vendere miele prodotto in casa (cottage food) sono di ogni Stato: informati presso il tuo Stato o il servizio sanitario locale.",
+     "en": "Rules for selling honey produced at home (cottage food) are set by each state: check with your state or local health department."
+    },
+    {
+     "it": "Contro la varroa si usano solo prodotti registrati dall'EPA, seguendo l'etichetta; dal 2017 gli antibiotici per le api (es. ossitetraciclina) richiedono la prescrizione di un veterinario.",
+     "en": "Use only EPA-registered products against varroa, following the label; since 2017 antibiotics for bees (e.g. oxytetracycline) require a veterinarian's prescription or VFD."
     }
    ],
    "nota": {
@@ -581,6 +593,22 @@
     {
      "nome": "Apiary Inspectors of America – Inspection services",
      "url": "https://apiaryinspectors.org/inspection-services/"
+    },
+    {
+     "nome": "FDA – Proper Labeling of Honey and Honey Products",
+     "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-proper-labeling-honey-and-honey-products"
+    },
+    {
+     "nome": "FDA – How to Start a Food Business",
+     "url": "https://www.fda.gov/food/food-industry/how-start-food-business"
+    },
+    {
+     "nome": "EPA – Products approved against varroa mites",
+     "url": "https://www.epa.gov/pollinator-protection/epa-registered-pesticide-products-approved-use-against-varroa-mites-bee-hives"
+    },
+    {
+     "nome": "FDA – Medically important antimicrobials for bees",
+     "url": "https://www.fda.gov/animal-veterinary/development-approval-process/using-medically-important-antimicrobials-bees-questions-and-answers"
     }
    ],
    "nomadismo": [
@@ -729,6 +757,94 @@
      "de": "Bringe keine Bienen in Sperrbezirke und nicht aus ihnen heraus.",
      "ro": "Nu duce albine în zone aflate sub restricție sanitară și nu le scoate de acolo.",
      "el": "Μη μεταφέρεις μέλισσες σε περιοχές με υγειονομικό περιορισμό ούτε από αυτές."
+    }
+   ]
+  },
+  "CA": {
+   "voci": [
+    {
+     "it": "In quasi tutte le province la registrazione dell'apicoltore è obbligatoria e va rinnovata: ogni anno in Alberta, Québec (dal 1° aprile al 1° giugno), Nuova Scozia e New Brunswick; ogni 1 o 3 anni in Ontario; ogni 2 anni in British Columbia, dove si registra anche ogni apiario.",
+     "en": "In almost every province beekeepers must register and renew: every year in Alberta, Québec (1 April–1 June), Nova Scotia and New Brunswick; every 1 or 3 years in Ontario; every 2 years in British Columbia, where each apiary location is registered too.",
+     "fr": "Dans presque toutes les provinces, l'enregistrement de l'apiculteur est obligatoire et doit être renouvelé : chaque année en Alberta, au Québec (du 1er avril au 1er juin), en Nouvelle-Écosse et au Nouveau-Brunswick ; tous les 1 ou 3 ans en Ontario ; tous les 2 ans en Colombie-Britannique, où chaque rucher est aussi enregistré."
+    },
+    {
+     "it": "Le malattie da segnalare le decide ogni provincia: per esempio in Ontario peste americana, peste europea, Aethina tumida e varroa elevata vanno segnalate subito all'ispettore; in British Columbia anche Tropilaelaps e il calabrone gigante asiatico.",
+     "en": "Each province sets its reportable diseases: for example in Ontario American and European foulbrood, small hive beetle and high varroa levels must be reported to an inspector at once; in British Columbia also Tropilaelaps and the Asian giant hornet.",
+     "fr": "Chaque province fixe ses maladies à déclarer : par exemple en Ontario, loque américaine, loque européenne, petit coléoptère de la ruche et forte infestation de varroa doivent être signalés tout de suite à un inspecteur ; en Colombie-Britannique aussi Tropilaelaps et le frelon géant asiatique."
+    },
+    {
+     "it": "Per importare api serve un permesso dell'Agenzia canadese per l'ispezione degli alimenti (ACIA/CFIA): i pacchi d'api dagli Stati Uniti restano vietati, le regine sono ammesse; alcune province chiedono anche un proprio permesso.",
+     "en": "Importing bees requires a Canadian Food Inspection Agency (CFIA) permit: package bees from the United States remain prohibited, queens are allowed; some provinces also require their own permit.",
+     "fr": "L'importation d'abeilles exige un permis de l'Agence canadienne d'inspection des aliments (ACIA) : les paquets d'abeilles des États-Unis restent interdits, les reines sont admises ; certaines provinces exigent aussi leur propre permis."
+    },
+    {
+     "it": "Contro la varroa si usano solo prodotti registrati da Santé Canada (ARLA/PMRA) seguendo l'etichetta; dal 2018 gli antibiotici per le api richiedono la prescrizione veterinaria. Conserva le registrazioni dei trattamenti per almeno un anno.",
+     "en": "Use only products registered by Health Canada (PMRA) against varroa, following the label; since 2018 antibiotics for bees require a veterinary prescription. Keep treatment records for at least one year.",
+     "fr": "Contre le varroa, utilisez seulement des produits homologués par Santé Canada (ARLA) en suivant l'étiquette ; depuis 2018, les antibiotiques pour les abeilles exigent une ordonnance vétérinaire. Conservez les registres de traitement au moins un an."
+    },
+    {
+     "it": "Il miele venduto in un'altra provincia o all'estero deve riportare categoria («Canada No 1») e classe di colore; le confezioni per i consumatori hanno etichetta in inglese e francese e peso in unità metriche. Per classificare o confezionare miele destinato ad altre province serve una licenza SFC.",
+     "en": "Honey sold to another province or abroad must show its grade (\"Canada No. 1\") and colour class; consumer packages are labelled in English and French with metric net quantity. Grading or packing honey for other provinces requires an SFC licence.",
+     "fr": "Le miel vendu dans une autre province ou à l'étranger doit indiquer sa catégorie (« Canada no 1 ») et sa classe de couleur ; les emballages pour consommateurs sont étiquetés en anglais et en français avec la quantité nette en unités métriques. Classer ou emballer du miel pour d'autres provinces exige une licence SFC."
+    }
+   ],
+   "nota": {
+    "it": "Le regole cambiano da provincia a provincia: controlla sempre con l'apicoltore provinciale (Provincial Apiarist).",
+    "en": "Rules differ from province to province: always check with your Provincial Apiarist.",
+    "fr": "Les règles diffèrent d'une province à l'autre : vérifiez toujours auprès de l'apiculteur provincial."
+   },
+   "fonti": [
+    {
+     "nome": "Ontario – Beekeeper registration",
+     "url": "https://www.ontario.ca/page/ontario-beekeeper-registration"
+    },
+    {
+     "nome": "Ontario – Summary of beekeeping regulations",
+     "url": "https://www.ontario.ca/page/summary-ontario-beekeeping-regulations"
+    },
+    {
+     "nome": "Alberta – Beekeeping registration",
+     "url": "https://www.alberta.ca/beekeeping-registration"
+    },
+    {
+     "nome": "British Columbia – Bees",
+     "url": "https://www2.gov.bc.ca/gov/content/industry/agriculture-seafood/animals-and-crops/animal-production/bees"
+    },
+    {
+     "nome": "Québec – Enregistrement des propriétaires d'abeilles",
+     "url": "https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/sante-animale/animaux-ferme-elevage/enregistrement-proprietaires-abeilles"
+    },
+    {
+     "nome": "CFIA – Honey bee packages from the United States (2025)",
+     "url": "https://inspection.canada.ca/en/about-cfia/transparency/consultations-and-engagement/completed/honey-bee-packages-united-states/notice-industry-2025-08-06"
+    },
+    {
+     "nome": "CFIA – Labelling requirements for honey",
+     "url": "https://inspection.canada.ca/en/food-labels/labelling/industry/honey"
+    },
+    {
+     "nome": "Health Canada – Responsible use of antimicrobials in animals",
+     "url": "https://www.canada.ca/en/public-health/services/antibiotic-antimicrobial-resistance/animals/actions/responsible-use-antimicrobials.html"
+    }
+   ],
+   "nomadismo": [
+    {
+     "it": "Per portare api in un'altra provincia servono la registrazione in regola, un'ispezione della provincia di partenza (in Ontario entro 45 giorni prima dell'arrivo) e il permesso della provincia di arrivo; in British Columbia il permesso è gratuito e vale 30 giorni.",
+     "en": "Moving bees into another province requires a valid registration, an inspection by the province of origin (in Ontario within 45 days before arrival) and a permit from the destination province; in British Columbia the permit is free and valid for 30 days.",
+     "fr": "Pour amener des abeilles dans une autre province, il faut un enregistrement valide, une inspection par la province d'origine (en Ontario dans les 45 jours avant l'arrivée) et un permis de la province d'arrivée ; en Colombie-Britannique le permis est gratuit et valable 30 jours.",
+     "es": "Para llevar abejas a otra provincia hacen falta el registro en regla, una inspección de la provincia de origen (en Ontario dentro de los 45 días antes de la llegada) y el permiso de la provincia de destino; en Columbia Británica el permiso es gratuito y vale 30 días.",
+     "de": "Für Bienen in eine andere Provinz braucht es eine gültige Registrierung, eine Kontrolle durch die Herkunftsprovinz (in Ontario innerhalb von 45 Tagen vor der Ankunft) und eine Genehmigung der Zielprovinz; in British Columbia ist sie kostenlos und 30 Tage gültig.",
+     "ro": "Pentru a duce albine în altă provincie sunt necesare înregistrarea valabilă, o inspecție a provinciei de plecare (în Ontario cu cel mult 45 de zile înainte de sosire) și permisul provinciei de destinație; în British Columbia permisul este gratuit și valabil 30 de zile.",
+     "el": "Για μεταφορά μελισσών σε άλλη επαρχία χρειάζονται έγκυρη εγγραφή, επιθεώρηση από την επαρχία αναχώρησης (στο Οντάριο έως 45 ημέρες πριν την άφιξη) και άδεια της επαρχίας προορισμού· στη Βρετανική Κολομβία η άδεια είναι δωρεάν και ισχύει 30 ημέρες."
+    },
+    {
+     "it": "Prenota per tempo l'ispezione (in Alberta servono fino a 3 settimane), tieni un registro degli spostamenti degli alveari (obbligatorio in Québec) e rispetta le zone di quarantena.",
+     "en": "Book the inspection early (in Alberta it can take up to 3 weeks), keep a log of hive movements (mandatory in Québec) and respect quarantine zones.",
+     "fr": "Réservez l'inspection à l'avance (en Alberta, jusqu'à 3 semaines), tenez un registre des déplacements des ruches (obligatoire au Québec) et respectez les zones de quarantaine.",
+     "es": "Reserva la inspección con tiempo (en Alberta puede tardar hasta 3 semanas), lleva un registro de los movimientos de las colmenas (obligatorio en Quebec) y respeta las zonas de cuarentena.",
+     "de": "Buche die Kontrolle rechtzeitig (in Alberta kann es bis zu 3 Wochen dauern), führe ein Wanderbuch über die Völkerbewegungen (in Québec Pflicht) und beachte Sperrgebiete.",
+     "ro": "Programează din timp inspecția (în Alberta poate dura până la 3 săptămâni), ține un registru al mutărilor stupilor (obligatoriu în Québec) și respectă zonele de carantină.",
+     "el": "Κλείσε έγκαιρα την επιθεώρηση (στην Αλμπέρτα μπορεί να χρειαστούν έως 3 εβδομάδες), κράτα αρχείο μετακινήσεων των κυψελών (υποχρεωτικό στο Κεμπέκ) και σέβου τις ζώνες καραντίνας."
     }
    ]
   }
